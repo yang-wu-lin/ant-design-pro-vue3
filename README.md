@@ -263,8 +263,4 @@ rules: {
 // 3.https://www.cnblogs.com/hongzhending/p/17336133.html
 ```
 5. vscode配置可以参考项目根目录.vscode/settings_backup.json
-##### 落魄前端,在线要饭
 
-<img src="https://i.imgtg.com/2023/03/22/9tzCN.jpg" width=200/>
-
-下次一定?给个Star也行啊
